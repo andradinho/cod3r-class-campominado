@@ -18,9 +18,9 @@ Projeto com intuito de entender/praticar conceitos abordados na etapa de fundame
   - *Generics;
   - *Java Desktop com Swing.
   
-> SistemaOperacional - Linux - Ubuntu 20.04.1 LTS
-> IDE >> Eclipse (jee-2019-063)
-> BuildPath >> JRE System Library [jdk-13.0.1]
+# SistemaOperacional - Linux - Ubuntu 20.04.1 LTS <<
+# IDE - Eclipse (jee-2019-063) <<
+# BuildPath >> JRE System Library [jdk-13.0.1] <<
 
 *Por questões de organização eu optei por deixar este diretório apenas com a lógica e com exibição em termina.
 Para ver o conteúdo completo com interface gráfica acesse: https://github.com/andradinho/cod3r-class-campominado2
